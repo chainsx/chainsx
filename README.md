@@ -19,6 +19,15 @@
 
 <p align="left">
    <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/debian.svg" alt="debian" width="40" height="40"/>
+   </a>
+   <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
+   </a>
+   <a href="#">
+      <img src="https://github.com/get-icon/geticon/blob/master/icons/fedora.svg" alt="fedora" width="40" height="40"/>
+   </a>
+   <a href="#">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
    </a>
    <a href="#">
@@ -41,12 +50,6 @@
    </a>
    <a href="#">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/intellij-idea.svg" alt="intellij-idea.svg" width="40" height="40"/>
-   </a>
-   <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/ubuntu.svg" alt="ubuntu" width="40" height="40"/>
-   </a>
-   <a href="#">
-      <img src="https://github.com/get-icon/geticon/blob/master/icons/fedora.svg" alt="fedora" width="40" height="40"/>
    </a>
 </p>
 <br>
