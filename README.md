@@ -1,12 +1,10 @@
 <p align="left">
    <h3>吾之名：青菜萝卜冬冬冬冬瓜</h3>
-   <p>我很可爱</p>
-   <p>私はとてもかわいい</p>
-   <p>Я симпатичный.</p>
-   <p>Ich bin sehr süß</p>
-   <p>Je suis mignon</p>
-   <p>나 귀여워.</p>
-   <p>Soy linda.</p>
+   <p>天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。</p>
+   <p>Everything we gain through curiosity will ultimately be tainted and corrupted by pride.</p>
+   <p>In life, 95% of things are beyond our control, but we still need to exert 5% effort to influence the 95% that we cannot decide.</p>
+   <p>Holding onto reality is not at the cost of dreams but built upon dreams!</p>
+   <p>qwqwqwq</p>
    <h3>I like everything!</h3>
    <p><a href="https://wiki.ubuntu.com/chainsx" target="_blank" rel="noopener noreferrer">I like ubuntu!</a></p>
 
