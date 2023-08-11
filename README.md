@@ -14,6 +14,7 @@
 
 <p>人生苦陷泥潭中，等待被解救。</p>
 <p>希望结识更多大佬，我能跪舔（bushi）。</p>
+<p><a href="https://github.com/chainsx/thanks-lists" target="_blank" rel="noopener noreferrer">感谢任何一位帮助过我的人，我都会记住（仅自己可见）。</a></p>
 
 <br>
 
