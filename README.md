@@ -11,6 +11,10 @@
    <p><a href="https://datastat.openeuler.org/zh/user/chainsx" target="_blank" rel="noopener noreferrer">I like openEuler!</a></p>
    <p>...</p>
 </p>
+
+<p>人生苦陷泥潭中，等待被解救。</p>
+<p>希望结识更多大佬，我能跪舔（bushi）。</p>
+
 <br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=chainsx&show_icons=true&theme=vue-dark"/>
