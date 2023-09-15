@@ -1,4 +1,6 @@
 <p align="left">
+   <h2>Rigil_Kent_chainsx</h2>
+   <h3>来自 Rigil Kent（南门二）的 青菜萝卜冬瓜 aka chainsx</h3>
    <h3>吾之名：青菜萝卜冬冬冬冬瓜</h3>
    <p>天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。</p>
    <p>Everything we gain through curiosity will ultimately be tainted and corrupted by pride.</p>
