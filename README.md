@@ -22,6 +22,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=chainsx&show_icons=true&theme=vue-dark"/>
 
 <p align="left">
+   <img align="left" src="https://www.openeuler.org/assets/logo.c7c57318.svg"/>
    <a href="#">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/debian.svg" alt="debian" width="40" height="40"/>
    </a>
@@ -31,7 +32,6 @@
    <a href="#">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/fedora.svg" alt="fedora" width="40" height="40"/>
    </a>
-   <img align="left" src="https://www.openeuler.org/assets/logo.c7c57318.svg"/>
    <a href="#">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
    </a>
