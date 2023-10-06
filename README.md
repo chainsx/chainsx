@@ -32,6 +32,9 @@
       <img src="https://github.com/get-icon/geticon/blob/master/icons/fedora.svg" alt="fedora" width="40" height="40"/>
    </a>
    <a href="#">
+      <img src="https://www.openeuler.org/assets/logo.c7c57318.svg" alt="openeuler" width="80" height="40"/>
+   </a>
+   <a href="#">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/c.svg" alt="c" width="40" height="40"/>
    </a>
    <a href="#">
