@@ -23,6 +23,7 @@
 
 <p align="left">
    <img align="left" src="https://www.openeuler.org/assets/logo.c7c57318.svg"/>
+   <img align="left" src="https://raw.githubusercontent.com/armbian/build/main/.github/armbian-logo.png"/>
    <a href="#">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/debian.svg" alt="debian" width="40" height="40"/>
    </a>
