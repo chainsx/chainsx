@@ -1,7 +1,8 @@
+## Rigil_Kent_chainsx
+### 吾之名：青菜萝卜冬冬冬冬瓜
+### 来自 Rigil Kent（南门二）的 青菜萝卜冬瓜 aka chainsx
+
 <p align="left">
-   <h2>Rigil_Kent_chainsx</h2>
-   <h3>吾之名：青菜萝卜冬冬冬冬瓜</h3>
-   <h3>来自 Rigil Kent（南门二）的 青菜萝卜冬瓜 aka chainsx</h3>
    <p>天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。</p>
    <p>Everything we gain through curiosity will ultimately be tainted and corrupted by pride.</p>
    <p>In life, 95% of things are beyond our control, but we still need to exert 5% effort to influence the 95% that we cannot decide.</p>
@@ -67,3 +68,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chainsx/chainsx/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chainsx/chainsx/output/github-contribution-grid-snake.svg">
 </picture>
+
+
