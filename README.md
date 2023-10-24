@@ -70,3 +70,47 @@
 </picture>
 
 
+### 你可能在找？
+
++-----------------------------------------------------------------
+|    RISC-V
+|  +--------------------------------------------------------------
+|  |
+|  |  [使用 T-Head 优化编译工具链，适用于 RISC-V 的 Armbian 构建框架](https://github.com/chainsx/armbian-riscv-build)
+|  |
+|  +--------------------------------------------------------------
+|  |  TH1520 相关
+|  |
+|  |  [thead-u-boot: Armbian, OpenWrt, Fedora 在 th1520 平台上使用的 u-boot](https://github.com/chainsx/thead-u-boot)
+|  |
+|  |  [openwrt-th1520: OpenWrt for TH1520 (非标准化实现)](https://github.com/chainsx/openwrt-th1520)
+|  |
+|  |  [fedora-riscv-builder: RISC-V Fedora 最小化构建框架](https://github.com/chainsx/fedora-riscv-builder)
+|  |
+|  |  [image-armbian-licheepi-4a: 使用 Armbian 官方构建框架自动构建镜像](https://github.com/chainsx/image-armbian-licheepi-4a)
+|  |
+|  +----------------------------------------------------------------
+|  openEuler
+|  +----------------------------------------------------------------
+|  |  Official:
+|  |  [openEuler for Rockchip](https://gitee.com/openeuler/rockchip)
+|  |
+|  +----------------------------------------------------------------
+|  |  Work In Progress:
+|  |  [The another openEuler build framwork](https://github.com/chainsx/openOE)
+|  |
+|  |  [openEuler 镜像自动构建仓库](https://github.com/chainsx/Rockchip-openEuler-build)
+|  |
+|  +-----------------------------------------------------------------
+|  Others
+|  +-----------------------------------------------------------------
+|  |
+|  |  [使用 SM4 加密的文件传输工具](https://github.com/chainsx/SM4-FileTransfer)
+|  |
+|  |  [Official OpenWrt 22.03 with latest LTS kernel](https://github.com/chainsx/openwrt)
+|  |
+|  |  [青年大学习重命名上传指定文件夹机器人](https://github.com/chainsx/BigStudyRenameBot)
+|  |
+|  |  [GUET 校园网自动登录脚本](https://github.com/chainsx/drcom_guet)
+|  |
+|  ...
