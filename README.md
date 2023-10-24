@@ -91,7 +91,7 @@
 |  |  [image-armbian-licheepi-4a: 使用 Armbian 官方构建框架自动构建镜像](https://github.com/chainsx/image-armbian-licheepi-4a)
 |  |
 |  +----------------------------------------------------------------
-|  openEuler
+|    openEuler
 |  +----------------------------------------------------------------
 |  |  Official:
 |  |  [openEuler for Rockchip](https://gitee.com/openeuler/rockchip)
@@ -103,7 +103,7 @@
 |  |  [openEuler 镜像自动构建仓库](https://github.com/chainsx/Rockchip-openEuler-build)
 |  |
 |  +-----------------------------------------------------------------
-|  Others
+|    Others
 |  +-----------------------------------------------------------------
 |  |
 |  |  [使用 SM4 加密的文件传输工具](https://github.com/chainsx/SM4-FileTransfer)
