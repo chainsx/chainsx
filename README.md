@@ -101,7 +101,7 @@
 |  |  Work In Progress:
 |  |  The another openEuler build framwork for SBC                           (https://github.com/chainsx/openOE)
 |  |
-|  |  openEuler 镜像自动构建仓库                                              (https://github.com/chainsx/Rockchip-openEuler-build)
+|  |  openEuler 镜像自动构建仓库                                               (https://github.com/chainsx/Rockchip-openEuler-build)
 |  |
 |  +-------------------------------------------------------------------------------------------------------------------------
 +----------------------------------------------------------------------------------------------------------------------------
@@ -110,7 +110,7 @@
 |  |
 |  |  使用 SM4 加密的文件传输工具                                              (https://github.com/chainsx/SM4-FileTransfer)
 |  |
-|  |  Official OpenWrt 22.03 with latest LTS kernel                          (https://github.com/chainsx/openwrt)
+|  |  Official OpenWrt-22.03/ImmortalWrt-21.02 with latest LTS kernel        (https://github.com/chainsx/openwrt)
 |  |
 |  |  青年大学习重命名上传指定文件夹机器人                                      (https://github.com/chainsx/BigStudyRenameBot)
 |  |
