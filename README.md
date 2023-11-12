@@ -110,7 +110,7 @@
 |  |
 |  |  使用 SM4 加密的文件传输工具                                              (https://github.com/chainsx/SM4-FileTransfer)
 |  |
-|  |  Official OpenWrt-22.03/ImmortalWrt-21.02 with latest LTS kernel        (https://github.com/chainsx/openwrt)
+|  |  Based on OpenWrt-22.03/ImmortalWrt-21.02 with latest LTS kernel        (https://github.com/chainsx/openwrt)
 |  |
 |  |  青年大学习重命名上传指定文件夹机器人                                      (https://github.com/chainsx/BigStudyRenameBot)
 |  |
