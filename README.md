@@ -8,10 +8,12 @@
    <p>In life, 95% of things are beyond our control, but we still need to exert 5% effort to influence the 95% that we cannot decide.</p>
    <p>Holding onto reality is not at the cost of dreams but built upon dreams!</p>
    <p>qwqwqwq</p>
-   <h3>I like everything!</h3>
-   <p><a href="https://wiki.ubuntu.com/chainsx" target="_blank" rel="noopener noreferrer">I like ubuntu!</a></p>
+   <h3>I love everything!</h3>
+   <p><a href="https://www.armbian.com/authors/" target="_blank" rel="noopener noreferrer">I love Armbian!</a></p>
 
-   <p><a href="https://datastat.openeuler.org/zh/user/chainsx" target="_blank" rel="noopener noreferrer">I like openEuler!</a></p>
+   <p><a href="https://datastat.openeuler.org/zh/user/chainsx" target="_blank" rel="noopener noreferrer">I love openEuler!</a></p>
+
+   <p><a href="https://wiki.ubuntu.com/chainsx" target="_blank" rel="noopener noreferrer">I love Ubuntu!</a></p>
    <p>...</p>
 </p>
 
