@@ -116,8 +116,6 @@
 |  |
 |  |  青年大学习重命名上传指定文件夹机器人                                      (https://github.com/chainsx/BigStudyRenameBot)
 |  |
-|  |  GUET 校园网自动登录脚本                                                  (https://github.com/chainsx/drcom_guet)
-|  |
 |  ...
 ...
 ```
