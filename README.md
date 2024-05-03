@@ -1,6 +1,5 @@
 ## Rigil_Kent_chainsx
 ### 吾之名：青菜萝卜冬冬冬冬瓜
-### 来自 Rigil Kent（南门二）的 青菜萝卜冬瓜 aka chainsx
 
 <p align="left">
    <p>天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。</p>
@@ -19,7 +18,6 @@
 </p>
 
 <p>希望认识更多大佬：</p>
-<p><a href="https://github.com/chainsx/thanks-lists" target="_blank" rel="noopener noreferrer">感谢任何一位帮助过我的人，我都会记住（仅自己可见）。</a></p>
 
 <br>
 
