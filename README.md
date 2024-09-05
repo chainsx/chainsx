@@ -1,6 +1,8 @@
 ## Rigil_Kent_chainsx
 ### 吾之名：青菜萝卜冬冬冬冬瓜
 
+#### World = (ARM + AI || RISC-V + AI)
+
 <p align="left">
    <p>天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。</p>
    <p>I use my limited spare time to carry out my hobbies. Although they are not so beautiful, I am trying to move forward.</p>
@@ -26,7 +28,10 @@
 <p align="left">
    <img align="left" src="https://www.openeuler.org/assets/logo.c7c57318.svg"/>
    <a href="#">
-      <img src="https://raw.githubusercontent.com/armbian/build/main/.github/armbian-logo.png" alt="debian" width="40" height="50"/>
+      <img src="https://raw.githubusercontent.com/armbian/build/main/.github/armbian-logo.png" alt="armbian" width="40" height="50"/>
+   </a>
+   <a href="#">
+      <img src="https://raw.githubusercontent.com/Tencent/ncnn/master/images/256-ncnn.png" alt="ncnn" width="40" height="50"/>
    </a>
    <a href="#">
       <img src="https://github.com/get-icon/geticon/blob/master/icons/debian.svg" alt="debian" width="40" height="40"/>
