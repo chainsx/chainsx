@@ -26,7 +26,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=chainsx&show_icons=true&theme=vue-dark"/>
 
 <p align="left">
-   <img align="left" src="https://www.openeuler.org/assets/logo.D1Si0Lp6.svg"/>
+   <img align="left" src="https://www.openeuler.org/assets/logo.XeUCiAZu.svg"/>
    <a href="#">
       <img src="https://raw.githubusercontent.com/armbian/build/main/.github/armbian-logo.png" alt="armbian" width="40" height="50"/>
    </a>
