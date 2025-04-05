@@ -16,6 +16,8 @@
    <p><a href="https://datastat.openeuler.org/zh/user/chainsx" target="_blank" rel="noopener noreferrer">I love openEuler!</a></p>
 
    <p><a href="https://wiki.ubuntu.com/chainsx" target="_blank" rel="noopener noreferrer">I love Ubuntu!</a></p>
+
+   <p><a href="https://github.com/Tencent/ncnn" target="_blank" rel="noopener noreferrer">I love ncnn!</a></p>
    <p>...</p>
 </p>
 
