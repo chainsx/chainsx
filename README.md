@@ -25,8 +25,11 @@
 
 <p>希望认识更多大佬</p>
 
-<p>可无偿接系统适配，如果这帮助了你，<a href="https://www.armbian.com/donate/" target="_blank" rel="noopener noreferrer">请向 Armbian 捐赠。</a></p>
-<p>Can provide system adaptation for free. If this has helped you, <a href="https://www.armbian.com/donate/" target="_blank" rel="noopener noreferrer">please donate to Armbian.</a></p>
+<p>可无偿接 Armbian 系统适配，如果这帮助了你，<a href="https://www.armbian.com/donate/" target="_blank" rel="noopener noreferrer">请向 Armbian 捐赠。</a></p>
+<p>Can provide Armbian system adaptation for free. If this has helped you, <a href="https://www.armbian.com/donate/" target="_blank" rel="noopener noreferrer">please donate to Armbian.</a></p>
+
+### How can you donate to me?
+#### I want my work to make a difference, and I’m not looking for anything in return. If you’d like to donate, please consider giving to a meaningful cause—like [UNICEF](https://help.unicef.org/global/donate).
 
 <br>
 
