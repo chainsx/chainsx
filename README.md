@@ -19,7 +19,10 @@
    <p>...</p>
 </p>
 
-<p>希望认识更多大佬：</p>
+<p>希望认识更多大佬</p>
+
+<p>可无偿接系统适配，如果这帮助了你，<a href="https://www.armbian.com/donate/" target="_blank" rel="noopener noreferrer">请向 Armbian 捐赠。</a></p>
+<p>Can provide system adaptation for free. If this has helped you, <a href="https://www.armbian.com/donate/" target="_blank" rel="noopener noreferrer">please donate to Armbian.</a></p>
 
 <br>
 
