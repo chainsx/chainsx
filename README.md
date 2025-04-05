@@ -29,7 +29,7 @@
 <p>Can provide Armbian system adaptation for free. If this has helped you, <a href="https://www.armbian.com/donate/" target="_blank" rel="noopener noreferrer">please donate to Armbian.</a></p>
 
 ### How can you donate to me?
-#### I want my work to make a difference, and I’m not looking for anything in return. If you’d like to donate, please consider giving to a meaningful cause—like [UNICEF](https://help.unicef.org/global/donate).
+#### I want my work to make a difference, and I’m not looking for anything in return. If you’d like to donate, please consider giving to a meaningful cause—like [UNICEF](https://help.unicef.org/global/donate), See: https://github.com/chainsx/donate.
 
 <br>
 
