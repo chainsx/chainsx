@@ -1,13 +1,12 @@
 ## Rigil_Kent_chainsx
 
-#### World = (ARM + AI || RISC-V + AI)
-
 <p align="left">
    <p>天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。</p>
    <p>I use my limited spare time to carry out my hobbies. Although they are not so beautiful, I am trying to move forward.</p>
    <p>Everything we gain through curiosity will ultimately be tainted and corrupted by pride.</p>
    <p>In life, 95% of things are beyond our control, but we still need to exert 5% effort to influence the 95% that we cannot decide.</p>
    <p>Holding onto reality is not at the cost of dreams but built upon dreams!</p>
+   <p>I came into this world to see how flowers bloom, how water flows, how the sun rises, and when the sunset falls. I live in this world simply to understand some truths and encounter some interesting things. Life is an accident, and within it, I search for cause and effect.</p>
    <p>qwqwqwq</p>
    <h3>I love everything!</h3>
 
