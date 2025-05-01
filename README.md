@@ -9,6 +9,9 @@
    <p>Everything we gain through curiosity will ultimately be tainted and corrupted by pride.</p>
    <p>In life, 95% of things are beyond our control, but we still need to exert 5% effort to influence the 95% that we cannot decide.</p>
    <p>Holding onto reality is not at the cost of dreams but built upon dreams!</p>
+   <p>我来这个世界，是来看花怎么开，水怎么流。太阳怎么升起，夕阳何时落下。
+我活在世上，无非想要明白些道理，遇见些有趣的事。
+生命是一场偶然，我在其中寻找因果。</p>
    <p>qwqwqwq</p>
    <h3>I love everything!</h3>
 
