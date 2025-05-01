@@ -1,5 +1,4 @@
 ## Rigil_Kent_chainsx
-### 吾之名：青菜萝卜冬冬冬冬瓜
 
 #### World = (ARM + AI || RISC-V + AI)
 
