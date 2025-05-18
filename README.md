@@ -99,6 +99,8 @@
 |  |
 |  |  使用 T-Head 优化编译工具链，适用于 RISC-V 的 Armbian 构建框架             (https://github.com/chainsx/armbian-riscv-build)
 |  |
+|  |  fedora-riscv-builder: RISC-V Fedora 最小化构建框架                      (https://github.com/chainsx/fedora-riscv-builder)
+|  |
 |  +-----------------------------------------------------------------------------------------------------------------------
 |  |  TH1520 相关
 |  |
@@ -106,10 +108,12 @@
 |  |
 |  |  openwrt-th1520: OpenWrt for TH1520 (非标准化实现)                       (https://github.com/chainsx/openwrt-th1520)
 |  |
-|  |  fedora-riscv-builder: RISC-V Fedora 最小化构建框架                      (https://github.com/chainsx/fedora-riscv-builder)
-|  |
 |  |  image-armbian-licheepi-4a: 使用 Armbian 官方构建框架自动构建镜像         (https://github.com/chainsx/image-armbian-licheepi-4a)
+|  +------------------------------------------------------------------------------------------------------------------------
 |  |
+|  |  Spacemit 相关
+|  |
+|  |  openwrt-spacemit: OpenWrt for Spacemit (自认为比较标准化的实现)          (https://github.com/chainsx/openwrt-spacemit)
 |  +------------------------------------------------------------------------------------------------------------------------
 +---------------------------------------------------------------------------------------------------------------------------
 |    openEuler
