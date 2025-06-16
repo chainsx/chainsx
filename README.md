@@ -1,29 +1,37 @@
 ## Rigil_Kent_chainsx
 
-<p align="left">
-   <p>天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。</p>
-   <p>I use my limited spare time to carry out my hobbies. Although they are not so beautiful, I am trying to move forward.</p>
-   <p>Everything we gain through curiosity will ultimately be tainted and corrupted by pride.</p>
-   <p>In life, 95% of things are beyond our control, but we still need to exert 5% effort to influence the 95% that we cannot decide.</p>
-   <p>Holding onto reality is not at the cost of dreams but built upon dreams!</p>
-   <p>I watch the flowers before the courtyard bloom and fade, I gaze at the clouds above as they gather and drift.</p>
-   <p>qwqwqwq</p>
-   <h3>I love everything!</h3>
+天高地迥，觉宇宙之无穷；兴尽悲来，识盈虚之有数。
 
-   <p><a href="https://github.com/Tencent/ncnn" target="_blank" rel="noopener noreferrer">I love ncnn!</a></p>
+I use my limited spare time to carry out my hobbies. Although they are not so beautiful, I am trying to move forward.
 
-   <p><a href="https://kernel.org/" target="_blank" rel="noopener noreferrer">I love mainline kernel!</a></p>
+Everything we gain through curiosity will ultimately be tainted and corrupted by pride.
+
+In life, 95% of things are beyond our control, but we still need to exert 5% effort to influence the 95% that we cannot decide.
+
+Holding onto reality is not at the cost of dreams but built upon dreams!
+
+I watch the flowers before the courtyard bloom and fade, I gaze at the clouds above as they gather and drift.
+
+qwqwqwq
+
+---
+
+### I love everything!
+
+[I love ncnn!](https://github.com/Tencent/ncnn)
+
+[I love mainline kernel!](https://kernel.org/)
    
-   <p><a href="https://www.armbian.com/authors/" target="_blank" rel="noopener noreferrer">I love Armbian!</a></p>
+[I love Armbian!](https://www.armbian.com/authors/)
 
-   <p><a href="https://datastat.openeuler.org/zh/user/chainsx" target="_blank" rel="noopener noreferrer">I love openEuler!</a></p>
+[I love openEuler!](https://datastat.openeuler.org/zh/user/chainsx)
 
-   <p><a href="https://wiki.ubuntu.com/chainsx" target="_blank" rel="noopener noreferrer">I love Ubuntu!</a></p>
+[I love Ubuntu!](https://wiki.ubuntu.com/chainsx)
 
-   <p>...</p>
-</p>
+...
 
-<p>希望认识更多大佬</p>
+
+#### 希望认识更多大佬
 
 ---
 
