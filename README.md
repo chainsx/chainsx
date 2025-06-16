@@ -11,6 +11,8 @@
    <h3>I love everything!</h3>
 
    <p><a href="https://github.com/Tencent/ncnn" target="_blank" rel="noopener noreferrer">I love ncnn!</a></p>
+
+   <p><a href="https://kernel.org/" target="_blank" rel="noopener noreferrer">I love mainline kernel!</a></p>
    
    <p><a href="https://www.armbian.com/authors/" target="_blank" rel="noopener noreferrer">I love Armbian!</a></p>
 
@@ -22,6 +24,12 @@
 </p>
 
 <p>希望认识更多大佬</p>
+
+---
+
+#### Part of my work was sponsored by [ISRC-CAS](https://github.com/ISRC-CAS).
+
+---
 
 ### How can you donate to me?
 #### I want my work to make a difference, and I’m not looking for anything in return. If you’d like to donate, please consider giving to a meaningful cause—like [UNICEF](https://help.unicef.org/global/donate), See: https://github.com/chainsx/donate.
