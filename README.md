@@ -29,6 +29,7 @@ qwqwqwq
 ...
 
 Received a BS degree in Computer Science and Technology.
+
 Currently pursuing a Master's degree in Computer Science and Technology.
 
 
