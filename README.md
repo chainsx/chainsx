@@ -18,13 +18,13 @@ qwqwqwq
 
 [I love ncnn!](https://github.com/Tencent/ncnn)
 
-[I love mainline kernel!](https://kernel.org/): Mainline kernel developer/commiter.
+[I love mainline kernel](https://kernel.org/): Mainline kernel developer/commiter.
 
-[I love openEuler!](https://datastat.openeuler.org/zh/user/chainsx): openEuler developer/commiter, Member of openEuler SBC-sig.
+[I love openEuler](https://datastat.openeuler.org/zh/user/chainsx): openEuler developer/commiter, Member of openEuler SBC-sig.
 
-[I love Armbian!](https://www.armbian.com/authors/): Armbian boards maintainer/developer.
+[I love Armbian](https://www.armbian.com/authors/): Armbian boards maintainer/developer.
 
-[I love Ubuntu!](https://wiki.ubuntu.com/chainsx): Ubuntu developer.
+[I love Ubuntu](https://wiki.ubuntu.com/chainsx): Ubuntu developer.
 
 ...
 
