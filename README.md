@@ -16,19 +16,20 @@ qwqwqwq
 
 ---
 
-### I love everything!
-
 [I love ncnn!](https://github.com/Tencent/ncnn)
 
-[I love mainline kernel!](https://kernel.org/)
-   
-[I love Armbian!](https://www.armbian.com/authors/)
+[I love mainline kernel!](https://kernel.org/): Mainline kernel developer/commiter.
 
-[I love openEuler!](https://datastat.openeuler.org/zh/user/chainsx)
+[I love openEuler!](https://datastat.openeuler.org/zh/user/chainsx): openEuler developer/commiter, Member of openEuler SBC-sig.
 
-[I love Ubuntu!](https://wiki.ubuntu.com/chainsx)
+[I love Armbian!](https://www.armbian.com/authors/): Armbian boards maintainer/developer.
+
+[I love Ubuntu!](https://wiki.ubuntu.com/chainsx): Ubuntu developer.
 
 ...
+
+Received a BS degree in Computer Science and Technology.
+Currently pursuing a Master's degree in Computer Science and Technology.
 
 
 #### 希望认识更多大佬
