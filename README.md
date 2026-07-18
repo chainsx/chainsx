@@ -46,8 +46,6 @@ Currently pursuing a Master's degree in Computer Science and Technology.
 
 <br>
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=chainsx&show_icons=true&theme=vue-dark"/>
-
 <p align="left">
    <img align="left" src="https://www.openeuler.org/assets/logo.XeUCiAZu.svg"/>
    <a href="#">
