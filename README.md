@@ -12,8 +12,6 @@ Holding onto reality is not at the cost of dreams but built upon dreams!
 
 I watch the flowers before the courtyard bloom and fade, I gaze at the clouds above as they gather and drift.
 
-qwqwqwq
-
 ---
 
 [I love ncnn!](https://github.com/Tencent/ncnn)
@@ -31,18 +29,6 @@ qwqwqwq
 Received a BS degree in Computer Science and Technology.
 
 Currently pursuing a Master's degree in Computer Science and Technology.
-
-
-#### 希望认识更多大佬
-
----
-
-#### Part of my work was sponsored by [ISRC-CAS](https://github.com/ISRC-CAS).
-
----
-
-### How can you donate to me?
-#### I want my work to make a difference, and I’m not looking for anything in return. If you’d like to donate, please consider giving to a meaningful cause—like [UNICEF](https://help.unicef.org/global/donate), See: https://github.com/chainsx/donate.
 
 <br>
 
@@ -151,8 +137,6 @@ Currently pursuing a Master's degree in Computer Science and Technology.
 |  |  使用 SM4 加密的文件传输工具                                              (https://github.com/chainsx/SM4-FileTransfer)
 |  |
 |  |  Based on ImmortalWrt with latest LTS kernel                            (https://github.com/chainsx/openwrt)
-|  |
-|  |  青年大学习重命名上传指定文件夹机器人                                      (https://github.com/chainsx/BigStudyRenameBot)
 |  |
 |  ...
 ...
